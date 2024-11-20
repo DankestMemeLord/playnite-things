@@ -1,2 +1,2 @@
 # playnite-things
-this is just a place to put my stuff
+this is just a place to put some stuff
